@@ -44,4 +44,4 @@ partOf: ""
 
 connectsTo: "pharmacist"
 
-runtime: "node"
+runtime: "nodejs"
